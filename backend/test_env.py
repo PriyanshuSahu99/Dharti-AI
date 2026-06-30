@@ -1,0 +1,3 @@
+from config import OPENWEATHER_API_KEY
+
+print(OPENWEATHER_API_KEY)
