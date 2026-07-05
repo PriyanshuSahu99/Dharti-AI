@@ -72,11 +72,7 @@ streamlit run app.py
 -   AI Assistant
 -   Reports
 
-## 👨‍💻 Developer
 
-**Priyanshu Sahu**
-
-GitHub: https://github.com/PriyanshuSahu99
 
 ## 📄 License
 
